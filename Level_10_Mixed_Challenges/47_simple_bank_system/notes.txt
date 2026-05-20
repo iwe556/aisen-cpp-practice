@@ -1,0 +1,19 @@
+# Simple Bank System
+
+Problem ID: 47_simple_bank_system
+Level: Level 10 - Mixed Challenges
+
+## Problem Statement
+Simulate a simple bank system.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+simulation, conditions
+
+## My Plan
+

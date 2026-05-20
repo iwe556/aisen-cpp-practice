@@ -1,0 +1,8 @@
+# Sample Test Cases
+
+## Sample Input
+listen
+silent
+
+## Sample Output
+Same

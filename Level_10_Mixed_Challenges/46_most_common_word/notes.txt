@@ -1,0 +1,19 @@
+# Most Common Word
+
+Problem ID: 46_most_common_word
+Level: Level 10 - Mixed Challenges
+
+## Problem Statement
+Find the most common word in a sentence.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+getline, map
+
+## My Plan
+

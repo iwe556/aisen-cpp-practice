@@ -1,0 +1,19 @@
+# Column Sum
+
+Problem ID: 33_column_sum
+Level: Level 07 - Matrices
+
+## Problem Statement
+Find the sum of each column in a matrix.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+nested loops
+
+## My Plan
+

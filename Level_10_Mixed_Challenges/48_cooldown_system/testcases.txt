@@ -1,0 +1,16 @@
+# Sample Test Cases
+
+## Sample Input
+5 2
+USE
+USE
+WAIT
+USE
+USE
+
+## Sample Output
+Move used
+On cooldown
+Waiting
+Move used
+On cooldown

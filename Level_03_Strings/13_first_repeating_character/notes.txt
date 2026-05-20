@@ -1,0 +1,19 @@
+# First Repeating Character
+
+Problem ID: 13_first_repeating_character
+Level: Level 03 - Strings
+
+## Problem Statement
+Find the first character that repeats in a string.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+unordered_set, strings
+
+## My Plan
+

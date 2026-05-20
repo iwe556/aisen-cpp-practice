@@ -1,0 +1,19 @@
+# Compress String
+
+Problem ID: 12_compress_string
+Level: Level 03 - Strings
+
+## Problem Statement
+Compress consecutive repeated characters.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+consecutive counting
+
+## My Plan
+

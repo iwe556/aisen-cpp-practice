@@ -1,0 +1,19 @@
+# Undo System
+
+Problem ID: 22_undo_system
+Level: Level 05 - Stack and Queue
+
+## Problem Statement
+Process WRITE x and UNDO commands. Print the remaining written values.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+stack using vector
+
+## My Plan
+

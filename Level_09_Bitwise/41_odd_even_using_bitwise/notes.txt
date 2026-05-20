@@ -1,0 +1,19 @@
+# Odd Even Using Bitwise
+
+Problem ID: 41_odd_even_using_bitwise
+Level: Level 09 - Bitwise
+
+## Problem Statement
+Determine whether a number is odd or even using bitwise logic, with no %.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+n&1
+
+## My Plan
+

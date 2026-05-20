@@ -1,0 +1,19 @@
+# Find Unique Number XOR
+
+Problem ID: 44_find_unique_number_xor
+Level: Level 09 - Bitwise
+
+## Problem Statement
+Every number appears twice except one. Find the unique number.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+xor cancellation
+
+## My Plan
+

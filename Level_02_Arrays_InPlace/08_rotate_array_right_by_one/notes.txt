@@ -1,0 +1,19 @@
+# Rotate Array Right by One
+
+Problem ID: 08_rotate_array_right_by_one
+Level: Level 02 - Arrays In-Place
+
+## Problem Statement
+Rotate the array one position to the right.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+array shifting, temp variable
+
+## My Plan
+

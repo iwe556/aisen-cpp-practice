@@ -1,0 +1,19 @@
+# Recursive String Reverse
+
+Problem ID: 39_recursive_string_reverse
+Level: Level 08 - Recursion
+
+## Problem Statement
+Reverse a string using recursion.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+string recursion
+
+## My Plan
+

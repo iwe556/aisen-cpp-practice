@@ -1,0 +1,19 @@
+# Simple Leaderboard
+
+Problem ID: 45_simple_leaderboard
+Level: Level 10 - Mixed Challenges
+
+## Problem Statement
+Create a simple leaderboard sorted by score.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+vector pairs, custom sort
+
+## My Plan
+

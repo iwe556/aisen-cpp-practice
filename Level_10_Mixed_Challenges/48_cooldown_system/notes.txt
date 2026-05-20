@@ -1,0 +1,19 @@
+# Cooldown System
+
+Problem ID: 48_cooldown_system
+Level: Level 10 - Mixed Challenges
+
+## Problem Statement
+A move can only be used every k turns. Process USE and WAIT commands.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+state tracking, commands
+
+## My Plan
+

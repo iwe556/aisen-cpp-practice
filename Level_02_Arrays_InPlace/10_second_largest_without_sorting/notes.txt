@@ -1,0 +1,19 @@
+# Second Largest Without Sorting
+
+Problem ID: 10_second_largest_without_sorting
+Level: Level 02 - Arrays In-Place
+
+## Problem Statement
+Find the second largest value without sorting the array.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+tracking variables
+
+## My Plan
+

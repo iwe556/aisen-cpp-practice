@@ -1,0 +1,19 @@
+# Insert at Beginning
+
+Problem ID: 27_insert_at_beginning
+Level: Level 06 - Linked Lists
+
+## Problem Statement
+Insert a new node at the beginning of a linked list.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+head update
+
+## My Plan
+

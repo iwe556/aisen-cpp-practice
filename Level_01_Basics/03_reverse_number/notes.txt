@@ -1,0 +1,19 @@
+# Reverse Number
+
+Problem ID: 03_reverse_number
+Level: Level 01 - Basics
+
+## Problem Statement
+Input a number and output its digits in reverse order.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+while loop, building number
+
+## My Plan
+

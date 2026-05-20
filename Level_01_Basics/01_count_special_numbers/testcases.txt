@@ -1,0 +1,8 @@
+# Sample Test Cases
+
+## Sample Input
+5
+12 7 9 20 15
+
+## Sample Output
+3

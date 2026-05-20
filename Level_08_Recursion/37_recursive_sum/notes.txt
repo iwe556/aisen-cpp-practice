@@ -1,0 +1,19 @@
+# Recursive Sum
+
+Problem ID: 37_recursive_sum
+Level: Level 08 - Recursion
+
+## Problem Statement
+Find the sum from 1 to n using recursion.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+return recursion
+
+## My Plan
+

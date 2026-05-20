@@ -1,0 +1,26 @@
+# C++ build outputs
+*.exe
+*.out
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Build folders
+build/
+bin/
+obj/
+cmake-build-*/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+*.bak
+*.swp
+*~
+
+# Editor folders
+.vscode/
+.idea/

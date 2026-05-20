@@ -1,0 +1,19 @@
+# Count Special Numbers
+
+Problem ID: 01_count_special_numbers
+Level: Level 01 - Basics
+
+## Problem Statement
+Given n numbers, count how many are divisible by 3 or 5.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+Loops, if, modulus
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Multiply by 2 Using Bitwise
+
+Problem ID: 42_multiply_by_2_using_bitwise
+Level: Level 09 - Bitwise
+
+## Problem Statement
+Multiply a number by 2 using bitwise logic, with no *.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+left shift
+
+## My Plan
+

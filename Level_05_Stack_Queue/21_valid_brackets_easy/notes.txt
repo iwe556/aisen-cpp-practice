@@ -1,0 +1,19 @@
+# Valid Brackets Easy
+
+Problem ID: 21_valid_brackets_easy
+Level: Level 05 - Stack and Queue
+
+## Problem Statement
+Input only ( and ). Output Valid if balanced, Invalid otherwise.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+counter / stack idea
+
+## My Plan
+

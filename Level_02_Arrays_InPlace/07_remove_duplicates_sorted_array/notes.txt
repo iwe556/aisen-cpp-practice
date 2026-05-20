@@ -1,0 +1,19 @@
+# Remove Duplicates from Sorted Array
+
+Problem ID: 07_remove_duplicates_sorted_array
+Level: Level 02 - Arrays In-Place
+
+## Problem Statement
+Given a sorted array, print only unique values without using a set/map.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+two pointers, in-place
+
+## My Plan
+

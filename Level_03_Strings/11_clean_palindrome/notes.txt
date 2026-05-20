@@ -1,0 +1,19 @@
+# Clean Palindrome
+
+Problem ID: 11_clean_palindrome
+Level: Level 03 - Strings
+
+## Problem Statement
+Check if a sentence is a palindrome, ignoring spaces and case.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+two pointers, strings
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Count Words in Sentence
+
+Problem ID: 15_count_words_in_sentence
+Level: Level 03 - Strings
+
+## Problem Statement
+Count the words in a sentence.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+getline, spaces
+
+## My Plan
+

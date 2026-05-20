@@ -1,0 +1,19 @@
+# Find Numbers That Appear Once
+
+Problem ID: 17_find_numbers_that_appear_once
+Level: Level 04 - Hash Maps
+
+## Problem Statement
+Find the numbers that appear exactly once.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+frequency filtering
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Delete First Node
+
+Problem ID: 29_delete_first_node
+Level: Level 06 - Linked Lists
+
+## Problem Statement
+Delete the first node of a linked list.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+head=head->next
+
+## My Plan
+

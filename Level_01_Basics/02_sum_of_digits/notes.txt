@@ -1,0 +1,19 @@
+# Sum of Digits
+
+Problem ID: 02_sum_of_digits
+Level: Level 01 - Basics
+
+## Problem Statement
+Input a positive integer and output the sum of its digits.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+while loop, %, /
+
+## My Plan
+

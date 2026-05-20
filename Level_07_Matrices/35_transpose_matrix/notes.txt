@@ -1,0 +1,19 @@
+# Transpose Matrix
+
+Problem ID: 35_transpose_matrix
+Level: Level 07 - Matrices
+
+## Problem Statement
+Print the transpose of a matrix.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+row-column swap
+
+## My Plan
+

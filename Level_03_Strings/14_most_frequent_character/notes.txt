@@ -1,0 +1,19 @@
+# Most Frequent Character
+
+Problem ID: 14_most_frequent_character
+Level: Level 03 - Strings
+
+## Problem Statement
+Find the most frequent character in a string.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+frequency map
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Find the Missing Number
+
+Problem ID: 05_find_missing_number
+Level: Level 01 - Basics
+
+## Problem Statement
+Numbers from 1 to n are given, but one is missing. Output the missing number.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+arrays, sum formula
+
+## My Plan
+

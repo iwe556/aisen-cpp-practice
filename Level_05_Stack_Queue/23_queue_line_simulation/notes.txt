@@ -1,0 +1,19 @@
+# Queue Line Simulation
+
+Problem ID: 23_queue_line_simulation
+Level: Level 05 - Stack and Queue
+
+## Problem Statement
+Simulate a queue line using commands.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+queue, commands
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Main Diagonal Sum
+
+Problem ID: 34_main_diagonal_sum
+Level: Level 07 - Matrices
+
+## Problem Statement
+Find the sum of the main diagonal.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+matrix[i][i]
+
+## My Plan
+

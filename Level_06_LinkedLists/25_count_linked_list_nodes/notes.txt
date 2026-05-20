@@ -1,0 +1,19 @@
+# Count Linked List Nodes
+
+Problem ID: 25_count_linked_list_nodes
+Level: Level 06 - Linked Lists
+
+## Problem Statement
+Count the number of nodes in a linked list.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+traversal, counter
+
+## My Plan
+

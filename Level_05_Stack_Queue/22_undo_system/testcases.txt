@@ -1,0 +1,12 @@
+# Sample Test Cases
+
+## Sample Input
+5
+WRITE A
+WRITE B
+UNDO
+WRITE C
+WRITE D
+
+## Sample Output
+A C D

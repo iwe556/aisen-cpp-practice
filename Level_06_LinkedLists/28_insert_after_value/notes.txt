@@ -1,0 +1,19 @@
+# Insert After Value
+
+Problem ID: 28_insert_after_value
+Level: Level 06 - Linked Lists
+
+## Problem Statement
+Find a node with a target value and insert a new node after it.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+pointer relinking
+
+## My Plan
+

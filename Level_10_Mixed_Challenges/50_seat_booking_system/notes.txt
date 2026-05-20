@@ -1,0 +1,19 @@
+# Seat Booking System
+
+Problem ID: 50_seat_booking_system
+Level: Level 10 - Mixed Challenges
+
+## Problem Statement
+Simulate a seat booking system.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+boolean array simulation
+
+## My Plan
+

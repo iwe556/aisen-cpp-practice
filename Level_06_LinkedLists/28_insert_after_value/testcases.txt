@@ -1,0 +1,7 @@
+# Sample Test Cases
+
+## Sample Input
+Example: 10 -> 20 -> 40, insert 30 after 20
+
+## Sample Output
+10 -> 20 -> 30 -> 40

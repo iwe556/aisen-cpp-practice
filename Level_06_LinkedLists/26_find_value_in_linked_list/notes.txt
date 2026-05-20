@@ -1,0 +1,19 @@
+# Find Value in Linked List
+
+Problem ID: 26_find_value_in_linked_list
+Level: Level 06 - Linked Lists
+
+## Problem Statement
+Find whether a value exists in a linked list.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+traversal, condition
+
+## My Plan
+

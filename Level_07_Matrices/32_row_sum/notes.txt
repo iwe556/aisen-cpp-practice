@@ -1,0 +1,19 @@
+# Row Sum
+
+Problem ID: 32_row_sum
+Level: Level 07 - Matrices
+
+## Problem Statement
+Find the sum of each row in a matrix.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+nested loops
+
+## My Plan
+

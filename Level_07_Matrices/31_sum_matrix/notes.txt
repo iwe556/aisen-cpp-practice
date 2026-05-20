@@ -1,0 +1,19 @@
+# Sum Matrix
+
+Problem ID: 31_sum_matrix
+Level: Level 07 - Matrices
+
+## Problem Statement
+Find the sum of all values in a matrix.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+nested loops
+
+## My Plan
+

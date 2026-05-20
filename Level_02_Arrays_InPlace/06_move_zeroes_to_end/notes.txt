@@ -1,0 +1,19 @@
+# Move Zeroes to End
+
+Problem ID: 06_move_zeroes_to_end
+Level: Level 02 - Arrays In-Place
+
+## Problem Statement
+Move all zeroes to the end while keeping the order of non-zero numbers.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+two pointers, in-place
+
+## My Plan
+

@@ -1,0 +1,19 @@
+# Recursive Countdown
+
+Problem ID: 36_recursive_countdown
+Level: Level 08 - Recursion
+
+## Problem Statement
+Print a countdown using recursion.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+base case
+
+## My Plan
+

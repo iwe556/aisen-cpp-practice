@@ -1,0 +1,19 @@
+# Student Score Lookup
+
+Problem ID: 19_student_score_lookup
+Level: Level 04 - Hash Maps
+
+## Problem Statement
+Look up student scores by name.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+map lookup
+
+## My Plan
+

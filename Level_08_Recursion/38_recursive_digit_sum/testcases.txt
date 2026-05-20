@@ -1,0 +1,7 @@
+# Sample Test Cases
+
+## Sample Input
+4729
+
+## Sample Output
+22

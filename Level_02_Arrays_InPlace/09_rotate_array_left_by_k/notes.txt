@@ -1,0 +1,19 @@
+# Rotate Array Left by k
+
+Problem ID: 09_rotate_array_left_by_k
+Level: Level 02 - Arrays In-Place
+
+## Problem Statement
+Rotate the array k positions to the left.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+rotation, modulo
+
+## My Plan
+

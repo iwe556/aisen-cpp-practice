@@ -1,0 +1,19 @@
+# Strong Password Checker
+
+Problem ID: 04_strong_password_checker
+Level: Level 01 - Basics
+
+## Problem Statement
+Check whether a password satisfies the required strength rules from the practice prompt.
+
+## Input
+Write the expected input format here before coding.
+
+## Output
+Write the expected output format here before coding.
+
+## Skills
+strings, flags, conditions
+
+## My Plan
+
