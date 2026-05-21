@@ -7,13 +7,13 @@ Level: Level 01 - Basics
 Given n numbers, count how many are divisible by 3 or 5.
 
 ## Input
-Write the expected input format here before coding.
+Input will be in the form of a "vector<int>" and be passed through the function parameter
 
 ## Output
-Write the expected output format here before coding.
+Will output "n numbers are divisible by 3 or 5"
 
 ## Skills
 Loops, if, modulus
 
 ## My Plan
-
+.
