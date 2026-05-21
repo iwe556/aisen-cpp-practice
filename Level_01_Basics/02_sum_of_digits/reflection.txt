@@ -2,15 +2,15 @@
 
 Date:
 Status: Not started
-Time taken:
+Time taken: 12 minutes
 
 ## What Worked
-
+.
 ## What Went Wrong
-
+.
 ## Mistakes I Made
-
+.
 ## Edge Cases I Missed
-
+.
 ## What I Will Redo Later
-
+.

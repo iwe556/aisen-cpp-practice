@@ -7,13 +7,13 @@ Level: Level 01 - Basics
 Input a positive integer and output the sum of its digits.
 
 ## Input
-Write the expected input format here before coding.
+Input will be passed through a terminal prompt
 
 ## Output
-Write the expected output format here before coding.
+Output will be the sum of the digits of the integer
 
 ## Skills
 while loop, %, /
 
 ## My Plan
-
+.
