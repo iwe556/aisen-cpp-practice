@@ -1,19 +1,41 @@
 # Count Special Numbers
 
-Problem ID: 01_count_special_numbers
+ID: 01_count_special_numbers
 Level: Level 01 - Basics
 
-## Problem Statement
-Given n numbers, count how many are divisible by 3 or 5.
+## Goal
+Read n, then n integers. Count how many values are divisible by 3 or by 5.
 
-## Input
-Input will be in the form of a "vector<int>" and be passed through the function parameter
+## Expected Format
+- Input: First line: n. Second line: n space-separated integers.
+- Output: One integer: the count of special numbers.
 
-## Output
-Will output "n numbers are divisible by 3 or 5"
+## Sample
+Input:
+```text
+5
+12 7 9 20 15
+```
+
+Output:
+```text
+3
+```
 
 ## Skills
-Loops, if, modulus
+Loops, conditions, modulus
 
-## My Plan
-.
+## Extra Detail
+A number divisible by both 3 and 5 still counts once.
+
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

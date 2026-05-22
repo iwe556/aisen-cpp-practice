@@ -1,7 +1,0 @@
-# Sample Test Cases
-
-## Sample Input
-(()())
-
-## Sample Output
-Valid

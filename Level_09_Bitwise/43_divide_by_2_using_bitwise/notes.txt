@@ -1,19 +1,32 @@
 # Divide by 2 Using Bitwise
 
-Problem ID: 43_divide_by_2_using_bitwise
+ID: 43_divide_by_2_using_bitwise
 Level: Level 09 - Bitwise
 
-## Problem Statement
-Divide a number by 2 using bitwise logic, with no /.
+## Goal
+Divide a number by 2 using bitwise logic, without using /.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One integer.
+- Output: The halved value using integer division.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 right shift
 
-## My Plan
+## Extra Detail
+Clarify behavior for odd numbers.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,32 @@
 # Queue Line Simulation
 
-Problem ID: 23_queue_line_simulation
+ID: 23_queue_line_simulation
 Level: Level 05 - Stack and Queue
 
-## Problem Statement
-Simulate a queue line using commands.
+## Goal
+Simulate people joining and leaving a queue.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of commands, followed by queue commands from the prompt.
+- Output: Print the requested queue results.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-queue, commands
+queue, command processing
 
-## My Plan
+## Extra Detail
+Define behavior for serving from an empty queue.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

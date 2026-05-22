@@ -1,19 +1,45 @@
 # Undo System
 
-Problem ID: 22_undo_system
+ID: 22_undo_system
 Level: Level 05 - Stack and Queue
 
-## Problem Statement
-Process WRITE x and UNDO commands. Print the remaining written values.
+## Goal
+Process WRITE x and UNDO commands, then print the remaining written values.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: number of commands. Next lines: WRITE value or UNDO.
+- Output: The remaining written values in order.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+5
+WRITE A
+WRITE B
+UNDO
+WRITE C
+WRITE D
+```
+
+Output:
+```text
+A C D
+```
 
 ## Skills
-stack using vector
+stack behavior with vector
 
-## My Plan
+## Extra Detail
+Decide what happens if UNDO is called when nothing is written.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

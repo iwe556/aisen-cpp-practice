@@ -1,19 +1,32 @@
 # Sum Matrix
 
-Problem ID: 31_sum_matrix
+ID: 31_sum_matrix
 Level: Level 07 - Matrices
 
-## Problem Statement
+## Goal
 Find the sum of all values in a matrix.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: rows and columns. Next rows: matrix values.
+- Output: One integer: total sum.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 nested loops
 
-## My Plan
+## Extra Detail
+Check a 1x1 matrix.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

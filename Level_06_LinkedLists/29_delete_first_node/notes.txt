@@ -1,19 +1,32 @@
 # Delete First Node
 
-Problem ID: 29_delete_first_node
+ID: 29_delete_first_node
 Level: Level 06 - Linked Lists
 
-## Problem Statement
-Delete the first node of a linked list.
+## Goal
+Remove the first node of a linked list.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A linked list, according to the prompt format.
+- Output: The linked list after deleting the first node.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-head=head->next
+head update
 
-## My Plan
+## Extra Detail
+Check behavior for an empty list and a one-node list.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

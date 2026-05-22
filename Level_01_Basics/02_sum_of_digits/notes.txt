@@ -1,19 +1,40 @@
 # Sum of Digits
 
-Problem ID: 02_sum_of_digits
+ID: 02_sum_of_digits
 Level: Level 01 - Basics
 
-## Problem Statement
-Input a positive integer and output the sum of its digits.
+## Goal
+Read one positive integer and print the sum of its digits.
 
-## Input
-Input will be passed through a terminal prompt
+## Expected Format
+- Input: One positive integer.
+- Output: One integer: the digit sum.
 
-## Output
-Output will be the sum of the digits of the integer
+## Sample
+Input:
+```text
+4729
+```
+
+Output:
+```text
+22
+```
 
 ## Skills
 while loop, %, /
 
-## My Plan
-.
+## Extra Detail
+Check what should happen for a one-digit number.
+
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

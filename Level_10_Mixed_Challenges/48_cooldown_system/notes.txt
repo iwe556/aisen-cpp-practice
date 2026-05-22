@@ -1,19 +1,49 @@
 # Cooldown System
 
-Problem ID: 48_cooldown_system
+ID: 48_cooldown_system
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
+## Goal
 A move can only be used every k turns. Process USE and WAIT commands.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: command count and cooldown length k. Next lines: USE or WAIT.
+- Output: One result line for each command.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+5 2
+USE
+USE
+WAIT
+USE
+USE
+```
+
+Output:
+```text
+Move used
+On cooldown
+Waiting
+Move used
+On cooldown
+```
 
 ## Skills
 state tracking, commands
 
-## My Plan
+## Extra Detail
+Be precise about when cooldown decreases after each turn.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,32 @@
 # Insert at Beginning
 
-Problem ID: 27_insert_at_beginning
+ID: 27_insert_at_beginning
 Level: Level 06 - Linked Lists
 
-## Problem Statement
-Insert a new node at the beginning of a linked list.
+## Goal
+Insert a new node before the current head of a linked list.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A linked list and one new value, according to the prompt format.
+- Output: The linked list after insertion.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 head update
 
-## My Plan
+## Extra Detail
+The new value becomes the first node.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

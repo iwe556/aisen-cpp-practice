@@ -1,19 +1,32 @@
 # Most Common Word
 
-Problem ID: 46_most_common_word
+ID: 46_most_common_word
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
+## Goal
 Find the most common word in a sentence.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One full line of text.
+- Output: The most common word, and optionally its count if required.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 getline, map
 
-## My Plan
+## Extra Detail
+Decide whether punctuation and case should be normalized.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

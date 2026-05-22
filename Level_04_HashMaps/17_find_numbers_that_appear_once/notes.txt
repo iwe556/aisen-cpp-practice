@@ -1,19 +1,32 @@
 # Find Numbers That Appear Once
 
-Problem ID: 17_find_numbers_that_appear_once
+ID: 17_find_numbers_that_appear_once
 Level: Level 04 - Hash Maps
 
-## Problem Statement
-Find the numbers that appear exactly once.
+## Goal
+Print the numbers that appear exactly one time.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n integers.
+- Output: All values with frequency 1.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-frequency filtering
+frequency counting, filtering
 
-## My Plan
+## Extra Detail
+Decide whether output should follow input order or sorted order.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

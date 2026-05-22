@@ -1,19 +1,32 @@
 # Second Largest Without Sorting
 
-Problem ID: 10_second_largest_without_sorting
+ID: 10_second_largest_without_sorting
 Level: Level 02 - Arrays In-Place
 
-## Problem Statement
-Find the second largest value without sorting the array.
+## Goal
+Find the second largest value in an array without sorting it.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n integers.
+- Output: The second largest value, or the agreed message/value if it does not exist.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-tracking variables
+tracking variables, comparisons
 
-## My Plan
+## Extra Detail
+Decide how to handle duplicate largest values and arrays with fewer than two distinct values.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

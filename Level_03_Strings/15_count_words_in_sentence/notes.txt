@@ -1,19 +1,32 @@
 # Count Words in Sentence
 
-Problem ID: 15_count_words_in_sentence
+ID: 15_count_words_in_sentence
 Level: Level 03 - Strings
 
-## Problem Statement
-Count the words in a sentence.
+## Goal
+Count how many words are in a sentence.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One full line of text.
+- Output: One integer: the number of words.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 getline, spaces
 
-## My Plan
+## Extra Detail
+Think about multiple spaces or leading/trailing spaces when making tests.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,32 @@
 # Simple Bank System
 
-Problem ID: 47_simple_bank_system
+ID: 47_simple_bank_system
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
-Simulate a simple bank system.
+## Goal
+Process simple bank account commands such as deposit, withdraw, and balance checks.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of commands, followed by banking commands from the prompt.
+- Output: The requested command outputs.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 simulation, conditions
 
-## My Plan
+## Extra Detail
+Define behavior for withdrawing more than the balance.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

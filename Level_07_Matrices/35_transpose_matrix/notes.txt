@@ -1,19 +1,44 @@
 # Transpose Matrix
 
-Problem ID: 35_transpose_matrix
+ID: 35_transpose_matrix
 Level: Level 07 - Matrices
 
-## Problem Statement
-Print the transpose of a matrix.
+## Goal
+Print the transpose of a matrix, where rows become columns.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: rows and columns. Next rows: matrix values.
+- Output: The transposed matrix.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+2 3
+1 2 3
+4 5 6
+```
+
+Output:
+```text
+1 4
+2 5
+3 6
+```
 
 ## Skills
 row-column swap
 
-## My Plan
+## Extra Detail
+The output has original column count as its row count.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

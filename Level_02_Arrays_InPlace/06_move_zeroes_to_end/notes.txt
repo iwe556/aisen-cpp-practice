@@ -1,19 +1,41 @@
 # Move Zeroes to End
 
-Problem ID: 06_move_zeroes_to_end
+ID: 06_move_zeroes_to_end
 Level: Level 02 - Arrays In-Place
 
-## Problem Statement
-Move all zeroes to the end while keeping the order of non-zero numbers.
+## Goal
+Move all zeroes to the end while keeping non-zero values in their original order.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n integers.
+- Output: The transformed array values in order.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+6
+0 5 0 3 8 0
+```
+
+Output:
+```text
+5 3 8 0 0 0
+```
 
 ## Skills
-two pointers, in-place
+arrays, in-place updates
 
-## My Plan
+## Extra Detail
+Try cases with no zeroes and all zeroes.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

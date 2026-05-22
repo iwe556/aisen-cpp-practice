@@ -1,19 +1,40 @@
 # Clean Palindrome
 
-Problem ID: 11_clean_palindrome
+ID: 11_clean_palindrome
 Level: Level 03 - Strings
 
-## Problem Statement
-Check if a sentence is a palindrome, ignoring spaces and case.
+## Goal
+Check whether a sentence is a palindrome while ignoring spaces and letter case.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One full line of text.
+- Output: Print Palindrome or Not Palindrome.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+Never odd or even
+```
+
+Output:
+```text
+Palindrome
+```
 
 ## Skills
-two pointers, strings
+strings, case handling, two ends of a string
 
-## My Plan
+## Extra Detail
+Use getline if the input can contain spaces.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

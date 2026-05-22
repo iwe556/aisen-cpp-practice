@@ -1,19 +1,32 @@
 # Seat Booking System
 
-Problem ID: 50_seat_booking_system
+ID: 50_seat_booking_system
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
-Simulate a seat booking system.
+## Goal
+Simulate booking and freeing seats.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of seats and a number of commands, followed by booking commands from the prompt.
+- Output: The requested seat booking results.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 boolean array simulation
 
-## My Plan
+## Extra Detail
+Check invalid seat numbers and already-booked seats if the prompt includes them.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

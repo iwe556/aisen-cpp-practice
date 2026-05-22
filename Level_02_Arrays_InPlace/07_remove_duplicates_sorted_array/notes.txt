@@ -1,19 +1,41 @@
 # Remove Duplicates from Sorted Array
 
-Problem ID: 07_remove_duplicates_sorted_array
+ID: 07_remove_duplicates_sorted_array
 Level: Level 02 - Arrays In-Place
 
-## Problem Statement
-Given a sorted array, print only unique values without using a set/map.
+## Goal
+Given a sorted array, print each distinct value once without using a set or map.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n sorted integers.
+- Output: The unique values in sorted order.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+7
+1 1 2 2 3 4 4
+```
+
+Output:
+```text
+1 2 3 4
+```
 
 ## Skills
-two pointers, in-place
+sorted arrays, duplicate handling
 
-## My Plan
+## Extra Detail
+Because the array is sorted, duplicates are adjacent.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

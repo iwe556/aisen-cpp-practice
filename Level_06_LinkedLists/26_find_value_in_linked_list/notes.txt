@@ -1,19 +1,32 @@
 # Find Value in Linked List
 
-Problem ID: 26_find_value_in_linked_list
+ID: 26_find_value_in_linked_list
 Level: Level 06 - Linked Lists
 
-## Problem Statement
-Find whether a value exists in a linked list.
+## Goal
+Check whether a target value exists in a linked list.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A linked list and one target value, according to the prompt format.
+- Output: Found / Not Found, or the required equivalent.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-traversal, condition
+linked-list traversal, condition
 
-## My Plan
+## Extra Detail
+Test target at head, middle, tail, and not present.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

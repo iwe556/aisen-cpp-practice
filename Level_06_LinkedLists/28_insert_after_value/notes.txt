@@ -1,19 +1,40 @@
 # Insert After Value
 
-Problem ID: 28_insert_after_value
+ID: 28_insert_after_value
 Level: Level 06 - Linked Lists
 
-## Problem Statement
+## Goal
 Find a node with a target value and insert a new node after it.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A linked list, target value, and new value.
+- Output: The linked list after insertion.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+Example: 10 -> 20 -> 40, insert 30 after 20
+```
+
+Output:
+```text
+10 -> 20 -> 30 -> 40
+```
 
 ## Skills
 pointer relinking
 
-## My Plan
+## Extra Detail
+Decide what to print if the target value is not found.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

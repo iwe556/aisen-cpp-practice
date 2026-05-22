@@ -1,19 +1,32 @@
 # Count Frequency of Numbers
 
-Problem ID: 16_count_frequency_of_numbers
+ID: 16_count_frequency_of_numbers
 Level: Level 04 - Hash Maps
 
-## Problem Statement
-Count how often each number appears.
+## Goal
+Count how many times each number appears.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n integers.
+- Output: Each distinct number with its frequency, in the format you choose before coding.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-unordered_map
+unordered_map or map
 
-## My Plan
+## Extra Detail
+If output order matters, choose map or sort the keys.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

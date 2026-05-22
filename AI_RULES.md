@@ -17,9 +17,10 @@ AI is not allowed to:
 - Auto-fill entire solution files
 
 For every problem, I should first:
-1. Read the problem.
-2. Write notes.txt.
-3. Write my own plan.
-4. Attempt solution.cpp.
+1. Read `notes.txt`.
+2. Restate the task in my own words.
+3. Write 2 custom tests.
+4. Attempt `solution.cpp`.
 5. Test it.
-6. Only then ask for help if stuck.
+6. Record the result in the attempt log.
+7. Only then ask for help if stuck.

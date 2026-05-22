@@ -1,19 +1,32 @@
 # Strong Password Checker
 
-Problem ID: 04_strong_password_checker
+ID: 04_strong_password_checker
 Level: Level 01 - Basics
 
-## Problem Statement
-Check whether a password satisfies the required strength rules from the practice prompt.
+## Goal
+Read one password and report whether it meets the required strength rules.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One password string without spaces.
+- Output: A clear result showing whether the password is strong.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 strings, flags, conditions
 
-## My Plan
+## Extra Detail
+Use the exact rules from your practice prompt or notes before coding.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

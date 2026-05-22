@@ -1,19 +1,32 @@
 # Recursive Power
 
-Problem ID: 40_recursive_power
+ID: 40_recursive_power
 Level: Level 08 - Recursion
 
-## Problem Statement
-Calculate a power using recursion.
+## Goal
+Compute base raised to exponent using recursion.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: Two integers: base and exponent.
+- Output: One integer: the power result.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 base case, multiplication
 
-## My Plan
+## Extra Detail
+Clarify whether exponent is always non-negative.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

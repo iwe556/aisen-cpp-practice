@@ -1,19 +1,40 @@
 # Compress String
 
-Problem ID: 12_compress_string
+ID: 12_compress_string
 Level: Level 03 - Strings
 
-## Problem Statement
-Compress consecutive repeated characters.
+## Goal
+Compress consecutive repeated characters by writing the character followed by its run length.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One string.
+- Output: The compressed string.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+aaabbccccd
+```
+
+Output:
+```text
+a3b2c4d1
+```
 
 ## Skills
-consecutive counting
+strings, consecutive counting
 
-## My Plan
+## Extra Detail
+Single characters still have count 1 in the sample style.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,32 @@
 # Recursive Sum
 
-Problem ID: 37_recursive_sum
+ID: 37_recursive_sum
 Level: Level 08 - Recursion
 
-## Problem Statement
+## Goal
 Find the sum from 1 to n using recursion.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One integer n.
+- Output: One integer: the sum.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 return recursion
 
-## My Plan
+## Extra Detail
+Decide the return value for n=0.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

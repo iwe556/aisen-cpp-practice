@@ -1,19 +1,40 @@
 # Recursive Digit Sum
 
-Problem ID: 38_recursive_digit_sum
+ID: 38_recursive_digit_sum
 Level: Level 08 - Recursion
 
-## Problem Statement
-Find sum of digits using recursion.
+## Goal
+Find the sum of digits using recursion.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One non-negative integer.
+- Output: One integer: the digit sum.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+4729
+```
+
+Output:
+```text
+22
+```
 
 ## Skills
-%, /, recursion
+recursion, %, /
 
-## My Plan
+## Extra Detail
+The recursive version should still shrink the number each call.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

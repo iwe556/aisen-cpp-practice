@@ -2,13 +2,14 @@
 
 This workspace is for AISEN Senior Category coding competition preparation in C++.
 
-Use each problem folder as a small journal:
-1. Read the problem.
-2. Fill in `notes.txt`, especially the input, output, edge cases, and your own plan.
-3. Write your attempt in `solution.cpp`.
-4. Put sample and custom tests in `testcases.txt`.
-5. Record what happened in `reflection.txt`.
-6. Update `progress.md`.
+Each problem folder now stays intentionally small:
+
+- `solution.cpp` is your attempt.
+- `notes.txt` has the goal, expected format, official sample if one was provided, extra detail, and a small attempt log.
+
+The old separate `testcases.txt` and `reflection.txt` files were removed because they repeated work from `notes.txt`. Put your custom tests and quick reflection in the `Before Coding` and `Attempt Log` sections instead.
+
+Update `progress.md` as you work through the levels, and keep recurring mistakes in `mistakes.md`.
 
 The starter files are intentionally blank. They are here to help you practise independent problem-solving, not to provide completed algorithms.
 

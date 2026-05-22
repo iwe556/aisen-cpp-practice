@@ -1,19 +1,32 @@
 # Multiply by 2 Using Bitwise
 
-Problem ID: 42_multiply_by_2_using_bitwise
+ID: 42_multiply_by_2_using_bitwise
 Level: Level 09 - Bitwise
 
-## Problem Statement
-Multiply a number by 2 using bitwise logic, with no *.
+## Goal
+Multiply a number by 2 using bitwise logic, without using *.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One integer.
+- Output: The doubled value.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 left shift
 
-## My Plan
+## Extra Detail
+Check whether the prompt uses only non-negative integers.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

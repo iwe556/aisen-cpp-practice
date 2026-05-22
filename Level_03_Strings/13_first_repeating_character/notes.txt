@@ -1,19 +1,32 @@
 # First Repeating Character
 
-Problem ID: 13_first_repeating_character
+ID: 13_first_repeating_character
 Level: Level 03 - Strings
 
-## Problem Statement
-Find the first character that repeats in a string.
+## Goal
+Find the first character in a string that appears again after it has already been seen.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One string.
+- Output: The first repeating character, or an agreed message if none repeats.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-unordered_set, strings
+strings, seen characters
 
-## My Plan
+## Extra Detail
+Clarify whether case matters before testing.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

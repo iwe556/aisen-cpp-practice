@@ -1,7 +1,0 @@
-# Sample Test Cases
-
-## Sample Input
-aaabbccccd
-
-## Sample Output
-a3b2c4d1

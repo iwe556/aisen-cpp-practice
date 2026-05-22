@@ -1,19 +1,32 @@
 # Simple Leaderboard
 
-Problem ID: 45_simple_leaderboard
+ID: 45_simple_leaderboard
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
-Create a simple leaderboard sorted by score.
+## Goal
+Create a leaderboard sorted by score.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of players, followed by name-score pairs.
+- Output: Players printed in leaderboard order.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-vector pairs, custom sort
+pairs, sorting
 
-## My Plan
+## Extra Detail
+Decide how ties should be ordered.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

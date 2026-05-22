@@ -1,19 +1,40 @@
 # Valid Brackets Easy
 
-Problem ID: 21_valid_brackets_easy
+ID: 21_valid_brackets_easy
 Level: Level 05 - Stack and Queue
 
-## Problem Statement
-Input only ( and ). Output Valid if balanced, Invalid otherwise.
+## Goal
+Read a string containing only '(' and ')' and decide whether it is balanced.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One bracket string.
+- Output: Print Valid or Invalid.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+(()())
+```
+
+Output:
+```text
+Valid
+```
 
 ## Skills
-counter / stack idea
+counter or stack idea
 
-## My Plan
+## Extra Detail
+A closing bracket cannot be matched by a future opening bracket.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

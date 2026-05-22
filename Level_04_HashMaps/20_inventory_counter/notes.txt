@@ -1,19 +1,32 @@
 # Inventory Counter
 
-Problem ID: 20_inventory_counter
+ID: 20_inventory_counter
 Level: Level 04 - Hash Maps
 
-## Problem Statement
-Process inventory counts in a game-style simulation.
+## Goal
+Track item counts in a small inventory simulation.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of commands, followed by commands such as adding, removing, or checking items.
+- Output: The requested inventory results.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-game-style map simulation
+unordered_map simulation
 
-## My Plan
+## Extra Detail
+Make sure item counts do not silently become negative unless the prompt allows it.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

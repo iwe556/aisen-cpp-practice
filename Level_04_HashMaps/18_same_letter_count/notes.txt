@@ -1,19 +1,41 @@
 # Same Letter Count
 
-Problem ID: 18_same_letter_count
+ID: 18_same_letter_count
 Level: Level 04 - Hash Maps
 
-## Problem Statement
+## Goal
 Check whether two words contain the same letters with the same frequencies.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: Two lines, one word per line.
+- Output: Print Same or Not Same.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+listen
+silent
+```
+
+Output:
+```text
+Same
+```
 
 ## Skills
-sorting or map
+character frequency or sorting
 
-## My Plan
+## Extra Detail
+Clarify whether uppercase and lowercase should be treated as different.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

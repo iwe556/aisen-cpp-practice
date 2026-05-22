@@ -1,15 +1,29 @@
 # Problem Title
 
-Problem ID:
+ID:
 Level:
 
-## Problem Statement
+## Goal
 
-## Input
+## Expected Format
+- Input:
+- Output:
 
-## Output
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 
-## My Plan
+## Extra Detail
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

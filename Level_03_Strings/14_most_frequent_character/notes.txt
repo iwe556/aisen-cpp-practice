@@ -1,19 +1,32 @@
 # Most Frequent Character
 
-Problem ID: 14_most_frequent_character
+ID: 14_most_frequent_character
 Level: Level 03 - Strings
 
-## Problem Statement
-Find the most frequent character in a string.
+## Goal
+Find the character that appears most often in the input string.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One string.
+- Output: The most frequent character, and optionally its count if required.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-frequency map
+frequency counting
 
-## My Plan
+## Extra Detail
+Decide how to break ties if two characters have the same frequency.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,40 @@
 # Print Linked List
 
-Problem ID: 24_print_linked_list
+ID: 24_print_linked_list
 Level: Level 06 - Linked Lists
 
-## Problem Statement
-Given a manually created linked list, print each node value.
+## Goal
+Given a manually created linked list, print each node value from head to tail.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: Usually no standard input; create the sample list in code if the prompt asks.
+- Output: Node values in order.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+Example: 10 -> 20 -> 30 -> null
+```
+
+Output:
+```text
+10 20 30
+```
 
 ## Skills
-traversal, pointers
+linked-list traversal
 
-## My Plan
+## Extra Detail
+Move from one node to the next until there is no next node.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

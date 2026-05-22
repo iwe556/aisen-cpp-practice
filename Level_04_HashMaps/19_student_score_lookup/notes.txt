@@ -1,19 +1,32 @@
 # Student Score Lookup
 
-Problem ID: 19_student_score_lookup
+ID: 19_student_score_lookup
 Level: Level 04 - Hash Maps
 
-## Problem Statement
-Look up student scores by name.
+## Goal
+Store student names and scores, then answer score lookup queries.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: Define from the prompt: number of students, name-score pairs, then lookup name(s).
+- Output: The requested score or a not-found result.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 map lookup
 
-## My Plan
+## Extra Detail
+Choose exact behavior for unknown names before coding.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

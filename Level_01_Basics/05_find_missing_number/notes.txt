@@ -1,19 +1,41 @@
 # Find the Missing Number
 
-Problem ID: 05_find_missing_number
+ID: 05_find_missing_number
 Level: Level 01 - Basics
 
-## Problem Statement
-Numbers from 1 to n are given, but one is missing. Output the missing number.
+## Goal
+The numbers should be from 1 to n, but exactly one number is missing. Read the incomplete list and print the missing value.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n, the full intended range 1..n. Second line: n-1 distinct integers from that range.
+- Output: One integer: the missing number.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+5
+1 2 4 5
+```
+
+Output:
+```text
+3
+```
 
 ## Skills
-arrays, sum formula
+arrays, arithmetic, careful input size
 
-## My Plan
+## Extra Detail
+The input count is n-1, not n. The missing number might be 1 or n.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

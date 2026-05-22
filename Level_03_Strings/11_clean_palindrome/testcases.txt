@@ -1,7 +1,0 @@
-# Sample Test Cases
-
-## Sample Input
-Never odd or even
-
-## Sample Output
-Palindrome

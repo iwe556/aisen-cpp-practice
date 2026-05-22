@@ -1,19 +1,32 @@
 # Main Diagonal Sum
 
-Problem ID: 34_main_diagonal_sum
+ID: 34_main_diagonal_sum
 Level: Level 07 - Matrices
 
-## Problem Statement
-Find the sum of the main diagonal.
+## Goal
+Find the sum of the main diagonal of a square matrix.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Next n lines: n values each.
+- Output: One integer: diagonal sum.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-matrix[i][i]
+matrix indices
 
-## My Plan
+## Extra Detail
+This usually assumes a square matrix.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

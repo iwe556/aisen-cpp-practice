@@ -1,19 +1,40 @@
 # Reverse Linked List Challenge
 
-Problem ID: 30_reverse_linked_list_challenge
+ID: 30_reverse_linked_list_challenge
 Level: Level 06 - Linked Lists
 
-## Problem Statement
-Reverse a linked list in-place.
+## Goal
+Reverse the direction of a linked list so the tail becomes the head.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A linked list, according to the prompt format.
+- Output: The linked list after reversal.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+Input:
+```text
+Example: 10 -> 20 -> 30
+```
+
+Output:
+```text
+30 -> 20 -> 10
+```
 
 ## Skills
-prev/current/next
+pointer updates
 
-## My Plan
+## Extra Detail
+Track links carefully so no node is lost.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

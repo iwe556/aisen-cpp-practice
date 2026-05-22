@@ -1,19 +1,32 @@
 # Recursive Countdown
 
-Problem ID: 36_recursive_countdown
+ID: 36_recursive_countdown
 Level: Level 08 - Recursion
 
-## Problem Statement
+## Goal
 Print a countdown using recursion.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One integer n.
+- Output: Numbers from n down to the stopping value required by the prompt.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-base case
+base case, recursive call
 
-## My Plan
+## Extra Detail
+Write the base case before the recursive call.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

@@ -1,19 +1,32 @@
 # Reverse Number
 
-Problem ID: 03_reverse_number
+ID: 03_reverse_number
 Level: Level 01 - Basics
 
-## Problem Statement
-Input a number and output its digits in reverse order.
+## Goal
+Read one integer and print the number formed by its digits in reverse order.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One integer.
+- Output: One integer: the reversed number.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-while loop, building number
+while loop, building a number
 
-## My Plan
+## Extra Detail
+Decide how you want to handle numbers ending in zero, such as 1200.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

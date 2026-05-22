@@ -1,19 +1,32 @@
 # Mini Inventory System
 
-Problem ID: 49_mini_inventory_system
+ID: 49_mini_inventory_system
 Level: Level 10 - Mixed Challenges
 
-## Problem Statement
-Simulate a mini inventory system.
+## Goal
+Simulate inventory commands for adding, removing, and checking item counts.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: A number of commands, followed by inventory commands from the prompt.
+- Output: The requested inventory outputs.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 unordered_map simulation
 
-## My Plan
+## Extra Detail
+Protect against removing more items than available unless the prompt says otherwise.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

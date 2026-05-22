@@ -1,19 +1,32 @@
 # Rotate Array Right by One
 
-Problem ID: 08_rotate_array_right_by_one
+ID: 08_rotate_array_right_by_one
 Level: Level 02 - Arrays In-Place
 
-## Problem Statement
-Rotate the array one position to the right.
+## Goal
+Move every value one position to the right, with the last value becoming the first.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: First line: n. Second line: n integers.
+- Output: The rotated array.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
-array shifting, temp variable
+array shifting, temporary storage
 
-## My Plan
+## Extra Detail
+Check n=1 before writing many index operations.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:

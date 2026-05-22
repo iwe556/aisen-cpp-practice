@@ -1,19 +1,32 @@
 # Recursive String Reverse
 
-Problem ID: 39_recursive_string_reverse
+ID: 39_recursive_string_reverse
 Level: Level 08 - Recursion
 
-## Problem Statement
+## Goal
 Reverse a string using recursion.
 
-## Input
-Write the expected input format here before coding.
+## Expected Format
+- Input: One string or one full line, depending on the prompt.
+- Output: The reversed string.
 
-## Output
-Write the expected output format here before coding.
+## Sample
+No official sample was provided in the workbook for this problem.
 
 ## Skills
 string recursion
 
-## My Plan
+## Extra Detail
+Use getline if spaces are part of the input.
 
+## Before Coding
+- Restate the task in one sentence.
+- Write 2 custom tests, including one edge case.
+- Note any unclear behavior you decide for yourself.
+
+## Attempt Log
+Date:
+Status: Not started
+Time taken:
+Mistake or lesson:
+Redo?:
