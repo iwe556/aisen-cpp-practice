@@ -5,5 +5,28 @@ int main(){
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
 
+    int n;
+    cin >> n;
+
+    vector<int> arr(n);
+
+    for (int i = 0; i < n; i++) {
+        cin >> arr[i];
+    }
+
+    int i = 0;
+
+    while (i < arr.size() - 1) {
+        if (arr[i] == arr[i + 1]) {
+            arr.erase(arr.begin() + i);
+        } else {
+            i++;
+        }
+    }
+    
+    for (int i = 0; i < arr.size(); i++) {
+        cout << arr[i] << " ";
+    }
+
     return 0;
 }
